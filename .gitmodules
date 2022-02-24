@@ -1,0 +1,3 @@
+[submodule "Assets/Packages/ObjectVelocityUnity"]
+	path = Assets/Packages/ObjectVelocityUnity
+	url = https://github.com/nobnak/ObjectVelocityUnity.git
