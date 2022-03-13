@@ -10,3 +10,6 @@
 [submodule "Assets/Packages/TextureViewer-Unity"]
 	path = Assets/Packages/TextureViewer-Unity
 	url = https://github.com/nobnak/TextureViewer-Unity.git
+[submodule "Assets/Packages/AffineDecomposition"]
+	path = Assets/Packages/AffineDecomposition
+	url = https://github.com/nobnak/AffineDecomposition.git
